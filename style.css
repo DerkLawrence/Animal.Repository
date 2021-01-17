@@ -21,3 +21,12 @@ h2 {
   text-align: center;
   color: mediumspringgreen;
 }
+
+img {
+  flot: center;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
